@@ -1,0 +1,24 @@
+# Ignore Python virtual environments
+venv/
+myenv310/
+
+# Bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# macOS files
+.DS_Store
+
+# Gradio or Streamlit generated files
+*.log
